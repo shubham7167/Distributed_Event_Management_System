@@ -1,0 +1,16 @@
+Jun 06, 2019 10:04:21 PM dsd.Client1 main
+INFO: Customer ID: MTLC1111Booking for MTLA010119 is succesful for the MTLC1111
+Jun 06, 2019 10:04:33 PM dsd.Client1 main
+INFO: Customer ID: MTLC1111Booking for TORM020119 is succesful for the MTLC1111
+Jun 06, 2019 10:05:25 PM dsd.Client1 main
+INFO: Customer ID: MTLC1111Booking for OTWM040119 is succesful for the MTLC1111
+Jun 06, 2019 10:05:39 PM dsd.Client1 main
+INFO: Customer ID: MTLC1111enter valid event id
+Jun 06, 2019 10:06:43 PM dsd.Client1 main
+INFO: Customer ID: MTLC1111MTLA010119 Event has been removed.
+Jun 06, 2019 10:08:39 PM dsd.Client1 main
+INFO: Customer ID: MTLC1111OTWE030119 Event has been removed.
+Jun 06, 2019 10:51:08 PM dsd.Client1 main
+INFO: Customer ID: MTLC1111Booking for MTLM010119 is succesful for the MTLC1111
+Jun 06, 2019 10:53:12 PM dsd.Client1 main
+INFO: Customer ID: MTLC1111Booking for TORE020119 is succesful for the MTLC1111

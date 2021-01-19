@@ -1,0 +1,22 @@
+Jun 06, 2019 10:16:55 PM dsd.Client1 main
+INFO: Manager ID: MTLM1234MTLM05010119 Event Succesfully Added
+Jun 06, 2019 10:19:38 PM dsd.Client1 main
+INFO: Manager ID: MTLM1234MTLM010119 Event Already Exist...Booking Capacity Updated
+Jun 06, 2019 10:21:20 PM dsd.Client1 main
+INFO: Manager ID: MTLM1234This event is not registered.
+Jun 06, 2019 10:30:57 PM dsd.Client1 main
+INFO: Manager ID: MTLM1234MTLM010119 Event has been removed.
+Jun 06, 2019 10:35:37 PM dsd.Client1 main
+INFO: Manager ID: MTLM1234MTLM020220 Event Succesfully Added
+Jun 06, 2019 10:36:01 PM dsd.Client1 main
+INFO: Manager ID: MTLM1234MTLM010119 Event Already Exist...Booking Capacity Updated
+Jun 06, 2019 10:36:39 PM dsd.Client1 main
+INFO: Manager ID: MTLM1234This event is not registered.
+Jun 06, 2019 10:36:54 PM dsd.Client1 main
+INFO: Manager ID: MTLM1234MTLM010119 Event has been removed.
+Jun 06, 2019 10:37:58 PM dsd.Client1 main
+INFO: Manager ID: MTLM1234 , Customer ID: MTLC1234Enter valid Event Type.
+Jun 06, 2019 10:38:32 PM dsd.Client1 main
+INFO: Manager ID: MTLM1234 , Customer ID: MTLC1234Booking for MTLA010119 is succesful for the MTLC1234
+Jun 06, 2019 10:39:22 PM dsd.Client1 main
+INFO: Manager ID: MTLM1234 , Customer ID: MTLC1234MTLA010119 Event has been removed.

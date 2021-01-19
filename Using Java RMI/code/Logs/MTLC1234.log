@@ -1,0 +1,26 @@
+Jun 06, 2019 9:48:32 PM dsd.Client1 main
+INFO: Customer ID: MTLC1234Booking for MTLM010119 is succesful for the MTLC1234
+Jun 06, 2019 9:49:28 PM dsd.Client1 main
+INFO: Customer ID: MTLC1234You have already book the event
+Jun 06, 2019 9:51:44 PM dsd.Client1 main
+INFO: Customer ID: MTLC1234This event is full.
+Jun 06, 2019 9:54:40 PM dsd.Client1 main
+INFO: Customer ID: MTLC1234Booking for TORM020119 is succesful for the MTLC1234
+Jun 06, 2019 9:54:57 PM dsd.Client1 main
+INFO: Customer ID: MTLC1234Booking for OTWM030119 is succesful for the MTLC1234
+Jun 06, 2019 9:55:54 PM dsd.Client1 main
+INFO: Customer ID: MTLC1234Booking for TORA020119 is succesful for the MTLC1234
+Jun 06, 2019 9:56:07 PM dsd.Client1 main
+INFO: Customer ID: MTLC1234You have already registered in 3 events outside Montreal
+Jun 06, 2019 9:58:19 PM dsd.Client1 main
+INFO: Customer ID: MTLC1234enter valid event id
+Jun 06, 2019 9:58:42 PM dsd.Client1 main
+INFO: Customer ID: MTLC1234Booking for MTLE030119 is succesful for the MTLC1234
+Jun 06, 2019 10:03:31 PM dsd.Client1 main
+INFO: Customer ID: MTLC1234Booking for TORA030119 is succesful for the MTLC1234
+Jun 06, 2019 10:54:39 PM dsd.Client1 main
+INFO: Customer ID: MTLC1234Booking for TORM030119 is succesful for the MTLC1234
+Jun 06, 2019 10:55:07 PM dsd.Client1 main
+INFO: Customer ID: MTLC1234Booking for TORA030119 is succesful for the MTLC1234
+Jun 06, 2019 11:15:32 PM dsd.Client1 main
+INFO: Customer ID: MTLC1234Booking for OTWA050119 is succesful for the MTLC1234
